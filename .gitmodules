@@ -1,25 +1,25 @@
 [submodule "demos"]
 	path = demos
-	url = git://github.com/gamaral/marshmallow_demos.git
+	url = https://github.com/gamaral/marshmallow_demos.git
 [submodule "contrib/box2d/code"]
 	path = contrib/box2d/code
-	url = git://github.com/gamaral/Box2D.git
+	url = https://github.com/gamaral/Box2D.git
 	branch = gamaral
 [submodule "contrib/tinyxml2/code"]
 	path = contrib/tinyxml2/code
-	url = git://github.com/gamaral/tinyxml2.git
+	url = https://github.com/gamaral/tinyxml2.git
 [submodule "contrib/libpng/code"]
 	path = contrib/libpng/code
-	url = git://libpng.git.sourceforge.net/gitroot/libpng/libpng
+	url = https://libpng.git.sourceforge.net/gitroot/libpng/libpng
 [submodule "contrib/zlib/code"]
 	path = contrib/zlib/code
-	url = git://github.com/madler/zlib.git
+	url = https://github.com/madler/zlib.git
 [submodule "contrib/lua/code"]
 	path = contrib/lua/code
-	url = git://github.com/gamaral/lua.git
+	url = https://github.com/gamaral/lua.git
 [submodule "contrib/libvorbis/code"]
 	path = contrib/libvorbis/code
-	url = git://github.com/gamaral/libvorbis.git
+	url = https://github.com/gamaral/libvorbis.git
 [submodule "contrib/libogg/code"]
 	path = contrib/libogg/code
-	url = git://github.com/gamaral/libogg.git
+	url = https://github.com/gamaral/libogg.git
